@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+   <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">record_DE-15_kenom_188356</lido:lidoRecID>
+   <lido:objectPublishedID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.kenom.de/id/record_DE-15_kenom_188356</lido:objectPublishedID>
+   <lido:objectPublishedID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://hdl.handle.net/428894.vzg/de9dca23-1919-4c1c-97cd-ac505eab8de2</lido:objectPublishedID>
+   <lido:category>
+      <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+   </lido:category>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4040629-5</lido:conceptID>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://nomisma.org/id/coin</lido:conceptID>
+               <lido:term>Münze</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="nominal">
+               <lido:term>Pfennig</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="authenticity">
+               <lido:term>Original</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet lido:type="generated_short" lido:sortorder="1">
+               <lido:appellationValue>Münze, Pfennig, 1320</lido:appellationValue>
+            </lido:titleSet>
+            <lido:titleSet lido:type="generated_long" lido:sortorder="3">
+               <lido:appellationValue>Pfennig, 1320
+Markgrafschaft Brandenburg</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions lido:type="front">
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>Stehende Figur mit 2 Blumen</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+            <lido:inscriptions lido:type="back">
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>Zwischen 2 Adlerköpfen, Helme und Kleepflanze</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="http://terminology.lido-schema.org/repositorySet_type/current_repository_or_location">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-15</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Universitätsbibliothek Leipzig</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.ub.uni-leipzig.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID>1982/1140</lido:workID>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Durchmesser: 14 mm
+Gewicht: 0,88 g</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType xml:lang="en">diameter</lido:measurementType>
+                     <lido:measurementType>Durchmesser</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>14</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType xml:lang="en">weight</lido:measurementType>
+                     <lido:measurementType>Gewicht</lido:measurementType>
+                     <lido:measurementUnit>g</lido:measurementUnit>
+                     <lido:measurementValue>0.88</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+                  <lido:term xml:lang="en">Production</lido:term>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1320</lido:displayDate>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Markgrafschaft Brandenburg</lido:displayPlace>
+                  <lido:place lido:politicalEntity="minting_authority_country_place">
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Markgrafschaft Brandenburg</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Silber</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech>
+                        <lido:term>Silber</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectNote>Bahrfeldt, Mark Brandenburg Bd I. 609, Dannenberg/Brdb Denare 179</lido:objectNote>
+                     <lido:objectNote lido:type="type">Literatur</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Literatur zum Typ</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+         <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">188356</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/recordType/item-level_record</lido:conceptID>
+            <lido:term xml:lang="en">Item-level record</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>kenom</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://kenom.gbv.de</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:term>Verwertungsrecht</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-15</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Universitätsbibliothek Leipzig</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.ub.uni-leipzig.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+         </lido:recordRights>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+               <lido:term>CC0 1.0 Universell (CC0 1.0)</lido:term>
+               <lido:term xml:lang="en">CC0 1.0 Universal (CC0 1.0)</lido:term>
+            </lido:rightsType>
+         </lido:recordRights>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00471">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/created">2016-10-24T11:33:38+00</lido:recordMetadataDate>
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2016-11-02T11:39:51+00</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00470">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/created">2017-11-01T07:40:22+01</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">record_DE-15_kenom_188356_media/record_DE-15_kenom_188356_vs.tif</lido:resourceID>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/resourceRepresentation_type/provided_representation">
+               <lido:linkResource lido:formatResource="image/jpeg">http://www.kenom.de/iiif/image/record_DE-15_kenom_188356/record_DE-15_kenom_188356_vs.jpg/full/full/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>3188</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>3084</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/resourceRepresentation_type/preview_representation">
+               <lido:linkResource lido:formatResource="image/jpeg">http://www.kenom.de/iiif/image/record_DE-15_kenom_188356/record_DE-15_kenom_188356_vs.jpg/full/300,/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>300</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>290</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term xml:lang="en">digital image</lido:term>
+            </lido:resourceType>
+            <lido:resourcePerspective>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/7707654-0</lido:conceptID>
+               <lido:term xml:lang="en">front</lido:term>
+            </lido:resourcePerspective>
+            <lido:resourceDateTaken>
+               <lido:displayDate>25. Januar 2016</lido:displayDate>
+               <lido:date>
+                  <lido:earliestDate>2016-01-25</lido:earliestDate>
+                  <lido:latestDate>2016-01-25</lido:latestDate>
+               </lido:date>
+            </lido:resourceDateTaken>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Urheberrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stephan Titze, Universitätsbibliothek Leipzig</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Verwertungsrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-15</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Universitätsbibliothek Leipzig</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.ub.uni-leipzig.de</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell (CC0 1.0)</lido:term>
+                  <lido:term xml:lang="en">CC0 1.0 Universal (CC0 1.0)</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">record_DE-15_kenom_188356_media/record_DE-15_kenom_188356_rs.tif</lido:resourceID>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/resourceRepresentation_type/provided_representation">
+               <lido:linkResource lido:formatResource="image/jpeg">http://www.kenom.de/iiif/image/record_DE-15_kenom_188356/record_DE-15_kenom_188356_rs.jpg/full/full/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>3140</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>3090</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/resourceRepresentation_type/preview_representation">
+               <lido:linkResource lido:formatResource="image/jpeg">http://www.kenom.de/iiif/image/record_DE-15_kenom_188356/record_DE-15_kenom_188356_rs.jpg/full/300,/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>300</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>295</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term xml:lang="en">digital image</lido:term>
+            </lido:resourceType>
+            <lido:resourcePerspective>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4468345-5</lido:conceptID>
+               <lido:term xml:lang="en">back</lido:term>
+            </lido:resourcePerspective>
+            <lido:resourceDateTaken>
+               <lido:displayDate>25. Januar 2016</lido:displayDate>
+               <lido:date>
+                  <lido:earliestDate>2016-01-25</lido:earliestDate>
+                  <lido:latestDate>2016-01-25</lido:latestDate>
+               </lido:date>
+            </lido:resourceDateTaken>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Urheberrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stephan Titze, Universitätsbibliothek Leipzig</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Verwertungsrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-15</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Universitätsbibliothek Leipzig</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.ub.uni-leipzig.de</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+                  <lido:term>CC0 1.0 Universell (CC0 1.0)</lido:term>
+                  <lido:term xml:lang="en">CC0 1.0 Universal (CC0 1.0)</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
